@@ -1,0 +1,10 @@
+kumuluzee:
+  name: pomozna-storitev
+  version: 1.0.0
+  env:
+    name: dev
+  server:
+      http:
+        port: 8081
+ime: prve-vaje
+
